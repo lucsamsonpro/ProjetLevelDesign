@@ -6,6 +6,7 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Users/lucsa/Projets gaming/UnrealProjects/ProjetLevelDesign/ProjetLevelDesign/LevelDesignProject/Content/FirstPerson/MonContenu/Unreal101.umap",
+<<<<<<< HEAD
 				"C:/Users/lucsa/Projets gaming/UnrealProjects/ProjetLevelDesign/ProjetLevelDesign/LevelDesignProject/Content/iut2023/Path_D32375A9.uasset",
 				"C:/Users/lucsa/Projets gaming/UnrealProjects/ProjetLevelDesign/ProjetLevelDesign/LevelDesignProject/Content/iut2023/Path_1C3012E1.uasset",
 				"C:/Users/lucsa/Projets gaming/UnrealProjects/ProjetLevelDesign/ProjetLevelDesign/LevelDesignProject/Content/iut2023/Cylinder_F01F4636.uasset",
@@ -261,6 +262,8 @@
 				"C:/Users/lucsa/Projets gaming/UnrealProjects/ProjetLevelDesign/ProjetLevelDesign/LevelDesignProject/Content/MonContenu/_GENERATED/lvlDesign/Plans/LM_lvl-1.uasset",
 				"C:/Users/lucsa/Projets gaming/UnrealProjects/ProjetLevelDesign/ProjetLevelDesign/LevelDesignProject/Content/MonContenu/_GENERATED/lvlDesign/Plans/LM_lvl-1_Mat.uasset",
 				"C:/Users/lucsa/Projets gaming/UnrealProjects/ProjetLevelDesign/ProjetLevelDesign/LevelDesignProject/Content/FirstPerson/MonContenu/_GENERATED/iut2023/Cylinder_EBD5E96F.uasset",
+=======
+>>>>>>> origin/main
 				"C:/Users/iut2023/Desktop/LS_UnrealProjects/ProjetLevelDesign/LevelDesignProject/Content/FirstPerson/MonContenu/Unreal101.umap",
 				"C:/Users/iut2023/Desktop/LS_UnrealProjects/ProjetLevelDesign/LevelDesignProject/Content/Input/IMC_Default.uasset",
 				"C:/Users/iut2023/Desktop/LS_UnrealProjects/ProjetLevelDesign/LevelDesignProject/Content/FirstPerson/MonContenu/lvlDesign/crypte.uasset",
